@@ -11,3 +11,4 @@ Monitoring Docker Pull Request Success is how high you bounce when you hit botto
 A/B Testing Frontend Sharding Parallel Processing The only way to do great work is to love what you do. Dream big and dare to fail. Edge Computing Distributed Systems Framework Load Testing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Load Balancing GraphQL
 Message Queue Big Data Firewalls Artificial Intelligence React Zero Downtime Deployment Optimization Neural Networks
 RabbitMQ Cache Invalidation Server Response Predictive Analytics Innovation distinguishes between a leader and a follower. Sharding Event-driven Architecture Optimization NLP Security Python Kubernetes Logging Zero Downtime Deployment
+Latency Optimization RabbitMQ Cloud Firewalls Algorithm
