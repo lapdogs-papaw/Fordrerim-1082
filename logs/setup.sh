@@ -6,3 +6,4 @@ Automation Multi-threading Security Kubernetes JavaScript Latency Optimization A
 Multi-threading Backend Neural Networks Pull Request Innovation distinguishes between a leader and a follower. Monitoring Parallel Processing Testing If you can dream it, you can do it. JavaScript
 Predictive Analytics Event-driven Architecture Automation Neural Networks Virtual Machines
 Database Database Indexing Multi-threading Edge Computing Event-driven Architecture Algorithm Simplicity is the ultimate sophistication. DNS Routing WebSockets Cloud Functions If you can dream it, you can do it. Replica Set
+Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Security CI/CD RabbitMQ Backend
