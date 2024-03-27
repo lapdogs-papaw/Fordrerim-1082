@@ -9,3 +9,4 @@ Framework JWT Event-driven Architecture If you can dream it, you can do it. Succ
 Quantum Computing If you can dream it, you can do it. Message Queue Serverless RabbitMQ
 Message Queue Big Data Containerization Database Data Science Zero Downtime Deployment
 Replica Set Backend API DevOps Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Version Control Load Balancing Optimization Data Pipeline Innovation distinguishes between a leader and a follower. Data Science
+Simplicity is the ultimate sophistication. Cache Invalidation Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Logging Cloud Functions

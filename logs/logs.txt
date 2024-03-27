@@ -8,3 +8,4 @@ Load Balancing API Testing Big Data Cloud
 NLP Replica Set Data Pipeline Automation CI/CD Predictive Analytics Big Data Distributed Systems Version Control Opportunities don't happen. You create them.
 DNS Routing Container Orchestration RabbitMQ Serverless Blockchain Virtual Machines Kubernetes Stay hungry, stay foolish. Cloud Firewalls
 Agile Parallel Processing UX Optimization I find that the harder I work, the more luck I seem to have. WebSockets Container Orchestration Cloud Monitoring Success is how high you bounce when you hit bottom. Predictive Analytics Stay hungry, stay foolish. JavaScript OAuth Latency Optimization
+Automation Artificial Intelligence Lambda Functions Distributed Systems API Edge Computing Docker The only way to do great work is to love what you do. Message Queue

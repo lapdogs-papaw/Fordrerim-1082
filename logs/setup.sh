@@ -4,3 +4,4 @@ Great things never come from comfort zones. Virtual Machines Cloud Lambda Functi
 Sharding Parallel Processing DevOps Dream big and dare to fail. Latency Optimization The only way to do great work is to love what you do.
 Automation Multi-threading Security Kubernetes JavaScript Latency Optimization API Code Review Distributed Systems Data Science Cloud Do what you love and the money will follow. Pull Request
 Multi-threading Backend Neural Networks Pull Request Innovation distinguishes between a leader and a follower. Monitoring Parallel Processing Testing If you can dream it, you can do it. JavaScript
+Predictive Analytics Event-driven Architecture Automation Neural Networks Virtual Machines
