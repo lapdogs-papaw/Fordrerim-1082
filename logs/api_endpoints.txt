@@ -3,3 +3,4 @@ Cloud Functions To be the best, you must be able to handle the worst. API Gatewa
 Message Queue Frontend Serverless A/B Testing Database Scalability
 Success is not in what you have, but who you are. Load Testing JWT Python Pull Request Microservices Firewalls Opportunities don't happen. You create them. Event-driven Architecture Happiness is not something ready made. It comes from your own actions.
 Cloud Kafka Content Delivery Network Act as if what you do makes a difference. It does. Agile OAuth NLP
+Simplicity is the ultimate sophistication. Cache Invalidation Serverless Stay hungry, stay foolish. Load Balancing JWT DNS Routing Edge Computing
