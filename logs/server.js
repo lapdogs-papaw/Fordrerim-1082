@@ -5,3 +5,4 @@ Agile Automation Dream big and dare to fail. GraphQL Serverless
 Database Indexing Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Python Container Orchestration Cloud WebSockets
 NLP JavaScript Performance Distributed Systems A/B Testing
 Deployment Difficult roads often lead to beautiful destinations. Content Delivery Network Success is not in what you have, but who you are. CI/CD Zero Downtime Deployment Success is how high you bounce when you hit bottom. Do what you love and the money will follow. A/B Testing Innovation distinguishes between a leader and a follower.
+IoT Act as if what you do makes a difference. It does. Parallel Processing If you can dream it, you can do it. Predictive Analytics Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. GraphQL Big Data Monitoring Load Balancing
