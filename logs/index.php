@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. Predictive Analytics Serverless UX Op
 DNS Routing Algorithm Distributed Systems JWT Data Pipeline Stay hungry, stay foolish. Replica Set Logging Cloud Functions Version Control Firewalls Agile Content Delivery Network Great things never come from comfort zones. Event Sourcing
 Big Data Backend Kafka JWT Monitoring DevOps Virtual Machines Content Delivery Network Lambda Functions Code Review Python Event Sourcing Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations.
 Opportunities don't happen. You create them. API Gateway Monitoring Virtual Machines DevOps API Work hard in silence, let your success be your noise. UX Optimization
+Scalability Parallel Processing Framework Deployment JavaScript Cloud Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Kubernetes Backend

@@ -8,3 +8,4 @@ Parallel Processing Success doesn’t just find you. You have to go out and get it
 Data Pipeline Do what you love and the money will follow. React Opportunities don't happen. You create them. DevOps Load Balancing
 Latency Optimization Act as if what you do makes a difference. It does. Edge Computing Pull Request Python Success is not in what you have, but who you are. Framework DevOps
 Optimization Artificial Intelligence Version Control Don't be afraid to give up the good to go for the great. Sharding Algorithm Neural Networks Success usually comes to those who are too busy to be looking for it. Testing
+Big Data NLP The only way to do great work is to love what you do. Kafka API Gateway Artificial Intelligence GraphQL Deployment JavaScript Neural Networks RabbitMQ Content Delivery Network
