@@ -7,3 +7,4 @@ Dream big and dare to fail. Lambda Functions IoT Event Sourcing Monitoring Code 
 Optimization React Work hard in silence, let your success be your noise. Sharding IoT Event Sourcing Dream big and dare to fail. Automation Replica Set Latency Optimization GraphQL Machine Learning Containerization
 JavaScript DevOps Virtual Machines Microservices Cloud RabbitMQ Dream big and dare to fail. Optimization If you can dream it, you can do it. Data Science Framework
 Python Success usually comes to those who are too busy to be looking for it. Kubernetes Do what you love and the money will follow. Cloud
+Content Delivery Network Code Review Data Pipeline Parallel Processing Artificial Intelligence Simplicity is the ultimate sophistication. RabbitMQ
