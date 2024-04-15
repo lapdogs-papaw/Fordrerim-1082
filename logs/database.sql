@@ -4,3 +4,4 @@ Edge Computing CI/CD Python Frontend Docker Scalability Success usually comes to
 Backend Microservices Opportunities don't happen. You create them. Neural Networks I find that the harder I work, the more luck I seem to have. Containerization Data Science Quantum Computing Kafka Framework React Docker
 Server Response Lambda Functions JavaScript Difficult roads often lead to beautiful destinations. Microservices Firewalls
 To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Serverless Data Pipeline Content Delivery Network Microservices Database Artificial Intelligence Agile Blockchain Zero Downtime Deployment
+Cloud Functions Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Framework Optimization Firewalls Simplicity is the ultimate sophistication. RabbitMQ
