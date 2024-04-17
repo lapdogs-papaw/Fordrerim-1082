@@ -12,3 +12,4 @@ Backend Dream big and dare to fail. OAuth API Blockchain Success is not in what 
 Server Response Cloud Functions Backend Container Orchestration GraphQL Success usually comes to those who are too busy to be looking for it. Event Sourcing Predictive Analytics Testing Pull Request NLP
 Event Sourcing Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Code Review UX Optimization
 Opportunities don't happen. You create them. IoT Scalability Serverless Monitoring Kubernetes Deployment Latency Optimization Edge Computing
+Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Predictive Analytics Automation Monitoring To be the best, you must be able to handle the worst.
