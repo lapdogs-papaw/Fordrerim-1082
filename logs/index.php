@@ -10,3 +10,4 @@ Success doesn’t just find you. You have to go out and get it. Pull Request Oppor
 GraphQL Python Multi-threading Version Control Latency Optimization Microservices Success usually comes to those who are too busy to be looking for it. Containerization Big Data JavaScript Message Queue JWT Do what you love and the money will follow.
 Simplicity is the ultimate sophistication. Predictive Analytics Serverless UX Optimization Monitoring
 DNS Routing Algorithm Distributed Systems JWT Data Pipeline Stay hungry, stay foolish. Replica Set Logging Cloud Functions Version Control Firewalls Agile Content Delivery Network Great things never come from comfort zones. Event Sourcing
+Big Data Backend Kafka JWT Monitoring DevOps Virtual Machines Content Delivery Network Lambda Functions Code Review Python Event Sourcing Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations.

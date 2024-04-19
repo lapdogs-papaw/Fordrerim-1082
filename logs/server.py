@@ -7,3 +7,4 @@ Python Parallel Processing Server Response A/B Testing Container Orchestration L
 NLP Pull Request API IoT Container Orchestration RabbitMQ Code Review Load Testing Neural Networks Success is not in what you have, but who you are. UX Optimization
 Framework JWT Event-driven Architecture If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Python Agile Success doesn’t just find you. You have to go out and get it. Testing Parallel Processing I find that the harder I work, the more luck I seem to have. IoT React Do what you love and the money will follow.
 Quantum Computing If you can dream it, you can do it. Message Queue Serverless RabbitMQ
+Message Queue Big Data Containerization Database Data Science Zero Downtime Deployment
