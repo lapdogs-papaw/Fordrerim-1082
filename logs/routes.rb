@@ -6,3 +6,4 @@ CI/CD Content Delivery Network Serverless Parallel Processing Work hard in silen
 JWT Scalability Predictive Analytics To be the best, you must be able to handle the worst. NLP Load Balancing IoT API Framework
 Parallel Processing Success doesn’t just find you. You have to go out and get it. Load Testing Neural Networks Zero Downtime Deployment UX Optimization JWT Version Control
 Data Pipeline Do what you love and the money will follow. React Opportunities don't happen. You create them. DevOps Load Balancing
+Latency Optimization Act as if what you do makes a difference. It does. Edge Computing Pull Request Python Success is not in what you have, but who you are. Framework DevOps
