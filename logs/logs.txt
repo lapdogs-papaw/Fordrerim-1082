@@ -6,3 +6,4 @@ Docker Data Science Sharding React Parallel Processing Success doesn’t just find
 Automation Event-driven Architecture Opportunities don't happen. You create them. Lambda Functions Optimization Latency Optimization Database Multi-threading Firewalls Stay hungry, stay foolish. The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. UX Optimization Logging
 Load Balancing API Testing Big Data Cloud
 NLP Replica Set Data Pipeline Automation CI/CD Predictive Analytics Big Data Distributed Systems Version Control Opportunities don't happen. You create them.
+DNS Routing Container Orchestration RabbitMQ Serverless Blockchain Virtual Machines Kubernetes Stay hungry, stay foolish. Cloud Firewalls
