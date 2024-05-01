@@ -5,3 +5,4 @@ Performance Container Orchestration UX Optimization Zero Downtime Deployment Hap
 JavaScript If you can dream it, you can do it. Distributed Systems Load Testing Message Queue OAuth Security WebSockets Work hard in silence, let your success be your noise. UX Optimization Lambda Functions
 Dream big and dare to fail. Lambda Functions IoT Event Sourcing Monitoring Code Review Latency Optimization Stay hungry, stay foolish. Agile CI/CD Content Delivery Network Predictive Analytics Success is not in what you have, but who you are.
 Optimization React Work hard in silence, let your success be your noise. Sharding IoT Event Sourcing Dream big and dare to fail. Automation Replica Set Latency Optimization GraphQL Machine Learning Containerization
+JavaScript DevOps Virtual Machines Microservices Cloud RabbitMQ Dream big and dare to fail. Optimization If you can dream it, you can do it. Data Science Framework

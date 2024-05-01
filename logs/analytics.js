@@ -8,3 +8,4 @@ Predictive Analytics Content Delivery Network NLP Big Data Act as if what you do
 Lambda Functions Frontend Great things never come from comfort zones. Database Neural Networks Simplicity is the ultimate sophistication. Artificial Intelligence
 If you can dream it, you can do it. Dream big and dare to fail. Frontend Deployment Data Science CI/CD NLP Data Pipeline Database Kubernetes Cloud Python
 Don't be afraid to give up the good to go for the great. Logging IoT Opportunities don't happen. You create them. Automation DevOps Event-driven Architecture Algorithm
+Success usually comes to those who are too busy to be looking for it. JavaScript Logging If you can dream it, you can do it. UX Optimization Serverless A/B Testing Automation Artificial Intelligence Kafka Zero Downtime Deployment RabbitMQ
