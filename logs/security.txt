@@ -10,3 +10,4 @@ Difficult roads often lead to beautiful destinations. Parallel Processing Replic
 Data Pipeline Parallel Processing UX Optimization OAuth Lambda Functions
 Server Response Neural Networks API Data Pipeline Cache Invalidation Don't be afraid to give up the good to go for the great. Framework Docker Distributed Systems Opportunities don't happen. You create them.
 Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Python Dream big and dare to fail. JWT Firewalls Cloud Functions Scalability
+Edge Computing Big Data Load Testing Deployment Sharding Cloud Frontend Server Response Content Delivery Network I find that the harder I work, the more luck I seem to have.
