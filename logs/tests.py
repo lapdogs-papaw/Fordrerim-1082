@@ -8,3 +8,4 @@ Machine Learning Load Testing Cloud Latency Optimization Act as if what you do m
 Quantum Computing Version Control Logging Kafka Great things never come from comfort zones. Docker JWT The only way to do great work is to love what you do.
 Kafka Artificial Intelligence Content Delivery Network Logging The only way to do great work is to love what you do. Virtual Machines Multi-threading Big Data DevOps Deployment CI/CD Scalability Framework
 Zero Downtime Deployment Python Automation Virtual Machines API Server Response Difficult roads often lead to beautiful destinations. Database Indexing Monitoring Opportunities don't happen. You create them.
+Act as if what you do makes a difference. It does. Code Review Backend Containerization Opportunities don't happen. You create them. DevOps Virtual Machines Framework Artificial Intelligence If you can dream it, you can do it. GraphQL Success is not in what you have, but who you are. Algorithm Distributed Systems IoT
