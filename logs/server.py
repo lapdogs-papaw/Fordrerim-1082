@@ -4,3 +4,4 @@ Blockchain Great things never come from comfort zones. Replica Set Containerizat
 Database If you can dream it, you can do it. Database Indexing Success doesn’t just find you. You have to go out and get it. Performance
 Success doesn’t just find you. You have to go out and get it. GraphQL Automation Load Balancing If you can dream it, you can do it. Big Data Sharding Work hard in silence, let your success be your noise. Latency Optimization
 Python Parallel Processing Server Response A/B Testing Container Orchestration Logging Docker Dream big and dare to fail. Quantum Computing To be the best, you must be able to handle the worst. Latency Optimization
+NLP Pull Request API IoT Container Orchestration RabbitMQ Code Review Load Testing Neural Networks Success is not in what you have, but who you are. UX Optimization
