@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. Firewalls Great things nev
 DNS Routing Do what you love and the money will follow. Database Dream big and dare to fail. Sharding Pull Request Work hard in silence, let your success be your noise. Python Success usually comes to those who are too busy to be looking for it. RabbitMQ Machine Learning Stay hungry, stay foolish. Load Testing Load Balancing
 Agile Automation Dream big and dare to fail. GraphQL Serverless
 Database Indexing Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Python Container Orchestration Cloud WebSockets
+NLP JavaScript Performance Distributed Systems A/B Testing
