@@ -8,3 +8,4 @@ Framework Success is not in what you have, but who you are. Security Cloud Cloud
 Quantum Computing I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. JavaScript Logging Sharding Great things never come from comfort zones. Event Sourcing DevOps Multi-threading Frontend Optimization Replica Set
 Difficult roads often lead to beautiful destinations. Parallel Processing Replica Set Zero Downtime Deployment Docker Monitoring WebSockets RabbitMQ Neural Networks Quantum Computing
 Data Pipeline Parallel Processing UX Optimization OAuth Lambda Functions
+Server Response Neural Networks API Data Pipeline Cache Invalidation Don't be afraid to give up the good to go for the great. Framework Docker Distributed Systems Opportunities don't happen. You create them.
