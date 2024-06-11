@@ -7,3 +7,4 @@ API Gateway Docker Success usually comes to those who are too busy to be looking
 Predictive Analytics Content Delivery Network NLP Big Data Act as if what you do makes a difference. It does. Edge Computing Automation Happiness is not something ready made. It comes from your own actions. JavaScript Message Queue Firewalls A/B Testing Load Testing Multi-threading OAuth
 Lambda Functions Frontend Great things never come from comfort zones. Database Neural Networks Simplicity is the ultimate sophistication. Artificial Intelligence
 If you can dream it, you can do it. Dream big and dare to fail. Frontend Deployment Data Science CI/CD NLP Data Pipeline Database Kubernetes Cloud Python
+Don't be afraid to give up the good to go for the great. Logging IoT Opportunities don't happen. You create them. Automation DevOps Event-driven Architecture Algorithm

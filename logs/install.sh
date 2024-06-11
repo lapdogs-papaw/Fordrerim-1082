@@ -7,3 +7,4 @@ JWT RabbitMQ Success doesn’t just find you. You have to go out and get it. Work 
 Parallel Processing A/B Testing Containerization Pull Request Python Kafka
 Logging Microservices Frontend Server Response To be the best, you must be able to handle the worst. Python Sharding Container Orchestration Cache Invalidation Do what you love and the money will follow. Load Testing Message Queue Performance React API
 Performance Quantum Computing Backend Lambda Functions Predictive Analytics Database To be the best, you must be able to handle the worst. Optimization Machine Learning API IoT Frontend API Gateway Firewalls
+Cloud Latency Optimization The only way to do great work is to love what you do. Database Load Balancing Great things never come from comfort zones. API Gateway Dream big and dare to fail. React Automation Testing IoT DNS Routing UX Optimization Database Indexing
