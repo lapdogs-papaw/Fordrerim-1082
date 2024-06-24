@@ -6,3 +6,4 @@ API RabbitMQ UX Optimization React Dream big and dare to fail. Quantum Computing
 API CI/CD A/B Testing Success is how high you bounce when you hit bottom. Message Queue
 Predictive Analytics React Database Stay hungry, stay foolish. Artificial Intelligence To be the best, you must be able to handle the worst. Multi-threading Server Response Docker
 Microservices The only way to do great work is to love what you do. API Act as if what you do makes a difference. It does. Virtual Machines Logging Scalability I find that the harder I work, the more luck I seem to have. Optimization Docker Event Sourcing Agile
+Parallel Processing I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Machine Learning Database To be the best, you must be able to handle the worst. Database Indexing
