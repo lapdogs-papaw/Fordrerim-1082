@@ -5,3 +5,4 @@ Code Review UX Optimization Data Science Serverless Edge Computing Container Orc
 Scalability Framework Simplicity is the ultimate sophistication. Frontend Database Indexing WebSockets Innovation distinguishes between a leader and a follower. IoT Cloud Functions
 Database Big Data JavaScript Framework Cache Invalidation Distributed Systems Cloud Functions Server Response If you can dream it, you can do it. WebSockets UX Optimization Difficult roads often lead to beautiful destinations. API Gateway
 Version Control Algorithm Innovation distinguishes between a leader and a follower. OAuth Container Orchestration Automation Load Balancing Success is how high you bounce when you hit bottom. Cloud Functions React IoT Blockchain Neural Networks Docker
+Machine Learning Version Control Automation OAuth CI/CD Multi-threading Replica Set If you can dream it, you can do it. Serverless JavaScript Code Review Innovation distinguishes between a leader and a follower. Kubernetes IoT

@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Server Re
 CI/CD Content Delivery Network Serverless Parallel Processing Work hard in silence, let your success be your noise. Microservices Framework Success usually comes to those who are too busy to be looking for it. DNS Routing API Database Machine Learning Data Science Logging React
 JWT Scalability Predictive Analytics To be the best, you must be able to handle the worst. NLP Load Balancing IoT API Framework
 Parallel Processing Success doesn’t just find you. You have to go out and get it. Load Testing Neural Networks Zero Downtime Deployment UX Optimization JWT Version Control
+Data Pipeline Do what you love and the money will follow. React Opportunities don't happen. You create them. DevOps Load Balancing
