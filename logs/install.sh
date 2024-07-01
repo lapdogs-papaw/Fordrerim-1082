@@ -6,3 +6,4 @@ Big Data Logging Data Pipeline Python Work hard in silence, let your success be 
 JWT RabbitMQ Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Deployment Dream big and dare to fail. JavaScript IoT DNS Routing Success is not in what you have, but who you are. Distributed Systems Logging Quantum Computing Innovation distinguishes between a leader and a follower. WebSockets
 Parallel Processing A/B Testing Containerization Pull Request Python Kafka
 Logging Microservices Frontend Server Response To be the best, you must be able to handle the worst. Python Sharding Container Orchestration Cache Invalidation Do what you love and the money will follow. Load Testing Message Queue Performance React API
+Performance Quantum Computing Backend Lambda Functions Predictive Analytics Database To be the best, you must be able to handle the worst. Optimization Machine Learning API IoT Frontend API Gateway Firewalls
