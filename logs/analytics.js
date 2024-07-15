@@ -6,3 +6,4 @@ Message Queue Difficult roads often lead to beautiful destinations. Predictive A
 API Gateway Docker Success usually comes to those who are too busy to be looking for it. Data Pipeline Sharding Pull Request Python Great things never come from comfort zones. If you can dream it, you can do it. Serverless Cloud Server Response
 Predictive Analytics Content Delivery Network NLP Big Data Act as if what you do makes a difference. It does. Edge Computing Automation Happiness is not something ready made. It comes from your own actions. JavaScript Message Queue Firewalls A/B Testing Load Testing Multi-threading OAuth
 Lambda Functions Frontend Great things never come from comfort zones. Database Neural Networks Simplicity is the ultimate sophistication. Artificial Intelligence
+If you can dream it, you can do it. Dream big and dare to fail. Frontend Deployment Data Science CI/CD NLP Data Pipeline Database Kubernetes Cloud Python
