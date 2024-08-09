@@ -7,3 +7,4 @@ Version Control React Kafka Cloud Functions Firewalls Opportunities don't happen
 Replica Set Stay hungry, stay foolish. A/B Testing Framework Container Orchestration IoT
 Kubernetes Agile Kafka Machine Learning IoT Replica Set OAuth Difficult roads often lead to beautiful destinations. WebSockets API Big Data
 Success doesn’t just find you. You have to go out and get it. Pull Request Opportunities don't happen. You create them. Cloud Functions Microservices React Monitoring To be the best, you must be able to handle the worst. Server Response Parallel Processing Cache Invalidation IoT Work hard in silence, let your success be your noise. Multi-threading
+GraphQL Python Multi-threading Version Control Latency Optimization Microservices Success usually comes to those who are too busy to be looking for it. Containerization Big Data JavaScript Message Queue JWT Do what you love and the money will follow.
