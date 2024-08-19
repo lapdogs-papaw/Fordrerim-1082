@@ -1,3 +1,4 @@
 Innovation distinguishes between a leader and a follower. Lambda Functions Serverless OAuth Dream big and dare to fail. Microservices Replica Set Work hard in silence, let your success be your noise. Data Pipeline
 Cloud Functions To be the best, you must be able to handle the worst. API Gateway Security Artificial Intelligence Agile A/B Testing Blockchain Lambda Functions Event-driven Architecture Cloud
 Message Queue Frontend Serverless A/B Testing Database Scalability
+Success is not in what you have, but who you are. Load Testing JWT Python Pull Request Microservices Firewalls Opportunities don't happen. You create them. Event-driven Architecture Happiness is not something ready made. It comes from your own actions.
