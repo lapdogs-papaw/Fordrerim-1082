@@ -7,3 +7,4 @@ Distributed Systems Container Orchestration A/B Testing Scalability Dream big an
 Machine Learning Load Testing Cloud Latency Optimization Act as if what you do makes a difference. It does. Backend API Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Parallel Processing
 Quantum Computing Version Control Logging Kafka Great things never come from comfort zones. Docker JWT The only way to do great work is to love what you do.
 Kafka Artificial Intelligence Content Delivery Network Logging The only way to do great work is to love what you do. Virtual Machines Multi-threading Big Data DevOps Deployment CI/CD Scalability Framework
+Zero Downtime Deployment Python Automation Virtual Machines API Server Response Difficult roads often lead to beautiful destinations. Database Indexing Monitoring Opportunities don't happen. You create them.
