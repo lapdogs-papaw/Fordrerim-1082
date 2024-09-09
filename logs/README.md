@@ -3,3 +3,4 @@ Big Data Algorithm Distributed Systems DevOps Cloud Functions Dream big and dare
 Algorithm JavaScript CI/CD Neural Networks Distributed Systems Don't be afraid to give up the good to go for the great. Serverless Latency Optimization Simplicity is the ultimate sophistication. RabbitMQ Great things never come from comfort zones. If you can dream it, you can do it.
 Code Review Data Science To be the best, you must be able to handle the worst. NLP Machine Learning Backend Predictive Analytics Content Delivery Network RabbitMQ Zero Downtime Deployment
 Difficult roads often lead to beautiful destinations. Monitoring Testing Python Do what you love and the money will follow. Message Queue Logging Lambda Functions Cache Invalidation Cloud Functions Parallel Processing UX Optimization
+Virtual Machines If you can dream it, you can do it. Security Automation Server Response Load Balancing Lambda Functions Container Orchestration Version Control Parallel Processing
