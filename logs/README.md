@@ -1,3 +1,4 @@
 If you can dream it, you can do it. The only way to do great work is to love what you do. Distributed Systems Server Response Pull Request Don't be afraid to give up the good to go for the great. Parallel Processing Big Data Predictive Analytics
 Big Data Algorithm Distributed Systems DevOps Cloud Functions Dream big and dare to fail. Multi-threading Frontend Containerization
 Algorithm JavaScript CI/CD Neural Networks Distributed Systems Don't be afraid to give up the good to go for the great. Serverless Latency Optimization Simplicity is the ultimate sophistication. RabbitMQ Great things never come from comfort zones. If you can dream it, you can do it.
+Code Review Data Science To be the best, you must be able to handle the worst. NLP Machine Learning Backend Predictive Analytics Content Delivery Network RabbitMQ Zero Downtime Deployment
