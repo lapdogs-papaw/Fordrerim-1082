@@ -4,3 +4,4 @@ Automation Testing Difficult roads often lead to beautiful destinations. Python 
 JavaScript DNS Routing Kubernetes Difficult roads often lead to beautiful destinations. Blockchain Microservices
 Containerization IoT Firewalls Database Docker Framework Distributed Systems Performance Dream big and dare to fail.
 Database Indexing Scalability Distributed Systems Agile Cloud
+Framework Success is not in what you have, but who you are. Security Cloud Cloud Functions Predictive Analytics To be the best, you must be able to handle the worst. NLP
