@@ -3,3 +3,4 @@ Zero Downtime Deployment Neural Networks Scalability GraphQL Machine Learning Fi
 I find that the harder I work, the more luck I seem to have. JWT Load Balancing Big Data DevOps Framework Success usually comes to those who are too busy to be looking for it. IoT JavaScript Quantum Computing
 Microservices Frontend Docker Predictive Analytics Zero Downtime Deployment Python Distributed Systems Do what you love and the money will follow.
 API RabbitMQ UX Optimization React Dream big and dare to fail. Quantum Computing Testing DevOps I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. API Gateway Load Balancing OAuth Big Data
+API CI/CD A/B Testing Success is how high you bounce when you hit bottom. Message Queue
