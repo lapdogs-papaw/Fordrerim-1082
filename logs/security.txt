@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. JavaScript API Gateway Pul
 Automation Testing Difficult roads often lead to beautiful destinations. Python Data Science Security
 JavaScript DNS Routing Kubernetes Difficult roads often lead to beautiful destinations. Blockchain Microservices
 Containerization IoT Firewalls Database Docker Framework Distributed Systems Performance Dream big and dare to fail.
+Database Indexing Scalability Distributed Systems Agile Cloud
