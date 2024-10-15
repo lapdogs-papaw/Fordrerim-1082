@@ -5,3 +5,4 @@ Containerization Cloud Functions Framework API Message Queue Act as if what you 
 IoT Happiness is not something ready made. It comes from your own actions. Python Deployment Lambda Functions
 Version Control React Kafka Cloud Functions Firewalls Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Deployment Event Sourcing Security
 Replica Set Stay hungry, stay foolish. A/B Testing Framework Container Orchestration IoT
+Kubernetes Agile Kafka Machine Learning IoT Replica Set OAuth Difficult roads often lead to beautiful destinations. WebSockets API Big Data
