@@ -2,3 +2,4 @@ Machine Learning Load Balancing Microservices Optimization Backend Scalability D
 Testing Artificial Intelligence Big Data API Simplicity is the ultimate sophistication.
 Difficult roads often lead to beautiful destinations. Event-driven Architecture GraphQL Version Control Parallel Processing NLP Replica Set Quantum Computing Microservices DNS Routing
 React Quantum Computing Serverless WebSockets CI/CD
+Docker Data Science Sharding React Parallel Processing Success doesn’t just find you. You have to go out and get it. Message Queue Database Indexing
