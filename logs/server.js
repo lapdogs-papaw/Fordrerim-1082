@@ -1,1 +1,2 @@
 Backend Message Queue Big Data Act as if what you do makes a difference. It does. Algorithm Dream big and dare to fail. Simplicity is the ultimate sophistication. Code Review To be the best, you must be able to handle the worst. DNS Routing Agile
+The only way to do great work is to love what you do. Firewalls Great things never come from comfort zones. Cloud Difficult roads often lead to beautiful destinations. React Deployment Do what you love and the money will follow. Containerization API
