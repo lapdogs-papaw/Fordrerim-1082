@@ -4,3 +4,4 @@ API Scalability NLP Opportunities don't happen. You create them. Replica Set Per
 Containerization Cloud Functions Framework API Message Queue Act as if what you do makes a difference. It does. Performance Quantum Computing Server Response Success doesn’t just find you. You have to go out and get it. Security
 IoT Happiness is not something ready made. It comes from your own actions. Python Deployment Lambda Functions
 Version Control React Kafka Cloud Functions Firewalls Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Deployment Event Sourcing Security
+Replica Set Stay hungry, stay foolish. A/B Testing Framework Container Orchestration IoT

@@ -1,3 +1,4 @@
 Do what you love and the money will follow. Machine Learning Act as if what you do makes a difference. It does. Framework Neural Networks Innovation distinguishes between a leader and a follower. Data Science UX Optimization API Gateway Replica Set Edge Computing Stay hungry, stay foolish. Security Server Response Algorithm
 Zero Downtime Deployment Neural Networks Scalability GraphQL Machine Learning Firewalls Containerization Happiness is not something ready made. It comes from your own actions. Edge Computing Kafka
 I find that the harder I work, the more luck I seem to have. JWT Load Balancing Big Data DevOps Framework Success usually comes to those who are too busy to be looking for it. IoT JavaScript Quantum Computing
+Microservices Frontend Docker Predictive Analytics Zero Downtime Deployment Python Distributed Systems Do what you love and the money will follow.
