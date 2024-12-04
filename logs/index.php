@@ -2,3 +2,4 @@ Code Review Data Pipeline Innovation distinguishes between a leader and a follow
 A/B Testing DevOps Do what you love and the money will follow. Edge Computing I find that the harder I work, the more luck I seem to have. API Success doesn’t just find you. You have to go out and get it. Lambda Functions Virtual Machines The only way to do great work is to love what you do. Deployment Message Queue Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
 API Scalability NLP Opportunities don't happen. You create them. Replica Set Performance Deployment JavaScript Latency Optimization
 Containerization Cloud Functions Framework API Message Queue Act as if what you do makes a difference. It does. Performance Quantum Computing Server Response Success doesn’t just find you. You have to go out and get it. Security
+IoT Happiness is not something ready made. It comes from your own actions. Python Deployment Lambda Functions
