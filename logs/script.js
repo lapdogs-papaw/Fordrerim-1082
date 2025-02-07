@@ -1,0 +1,1 @@
+Do what you love and the money will follow. Machine Learning Act as if what you do makes a difference. It does. Framework Neural Networks Innovation distinguishes between a leader and a follower. Data Science UX Optimization API Gateway Replica Set Edge Computing Stay hungry, stay foolish. Security Server Response Algorithm
